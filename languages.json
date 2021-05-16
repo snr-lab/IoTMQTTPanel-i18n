@@ -1,6 +1,6 @@
 {
-  version: "1.0",
-  languages: [
+  "version": "1.0",
+  "languages": [
     {
       "code": "bn_IN",
       "language": "বাংলা"
