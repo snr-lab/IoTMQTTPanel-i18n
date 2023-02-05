@@ -3,12 +3,12 @@
 ### How to contribute to translation?
 
 1. Go to https://snrlab.in/translator/
-2. Load a language from the left panel.
-3. Translate each sentence. The changes will be saved to the browser's local storage automatically.
-4. You can resume the translation by just opening the translation site.
-5. Once the translation is complete you can download it from the top right corner.
-6. Please email the translation file to snrlab.in@gmail.com
-7. It is recommended to download the current progress frequently to avoid accidental browser data cleanup.
+2. Load a language from the left panel or restore from the previously saved file.
+3. Translate each sentence. The changes will be cached to the browser's local storage automatically.
+4. You can close the page and resume the translation by re-opening the page.
+5. Once the translation is complete you can save it from the top right corner.
+6. Please email the saved file to snrlab.in@gmail.com
+7. It is recommended to save the current progress frequently to avoid accidental browser data cleanup.
 
 ### How to add a new language?
 
