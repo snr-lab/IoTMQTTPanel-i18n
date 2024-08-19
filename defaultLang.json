@@ -428,7 +428,6 @@
     "pieChartType": "Chart type",
     "pieChart": "Pie chart",
     "donutChart": "Donut chart",
-    "barGraphOrientation": "Graph orientation",
     "topicForBar": "Topic for bar",
     "labelForBar": "Label for bar",
     "addMoreBar": "Add more bar",

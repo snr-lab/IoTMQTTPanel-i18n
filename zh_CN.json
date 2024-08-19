@@ -409,7 +409,6 @@
     "pieChartType": "图表类型",
     "pieChart": "饼图",
     "donutChart": "甜甜圈图",
-    "barGraphOrientation": "图表方向",
     "topicForBar": "条形主题",
     "labelForBar": "条形标签",
     "addMoreBar": "添加更多条形",
