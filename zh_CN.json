@@ -593,5 +593,11 @@
     "faqSummary": "希望这些常见问题对您有用。详细信息请参阅《用户指南》。如果您有任何疑问，请随时通过以下方式联系我们",
     "faqClientCertificateAopenssl": "openssl pkcs12 -legacy -export -clcerts -in client.crt -inkey client.key -out client.p12\n命令解释：使用 OpenSSL 将客户端证书（client.crt）和私钥（client.key）导出为 PKCS#12 格式的文件（client.p12）。该命令使用了 -legacy 标志，确保兼容旧版算法，并且只导出客户端证书（不包括 CA 证书）。",
     "useIconButton": "为按钮使用图标",
-    "panelWidth75": "3/4屏宽"
+    "panelWidth75": "3/4屏宽",
+    "rangeErrorRepeatPublishInterval": "允许 100-10000",
+    "payloadOnRelease": "释放时分离有效载荷",
+    "repeatUntilReleased": "重复发布直至发布",
+    "repeatInterval": "重复间隔（以毫秒为单位）",
+    "repeatIntervalRequired": "需要重复间隔",
+    "payloadOnBtnRelease": "如果您希望在按下和释放按钮时发布两个单独的有效载荷，请提供有效载荷"
 }
