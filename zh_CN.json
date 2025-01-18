@@ -547,7 +547,7 @@
     "faqPlafromQ": "该应用在哪些平台上可用？",
     "faqPlafromA": "该应用程序可在 Android 和 iOS 上使用。",
     "faqPrivacyQ": "数据隐私如何？",
-    "faqPrivacyA": "本应用既不收集任何数据也不与任何第三方共享。所有数据和用户偏好都保存在本地内存中。然而，用户可以随时导出他的偏好，可能包含敏感信息，用户有责任确保导出数据的安全。此外，该应用显示来自Google AdSense的广告。请参阅Google AdSense隐私政策以了解有关广告的更多信息。",
+    "faqPrivacyA": "此应用程序既不收集任何数据，也不与任何第三方共享数据。所有数据和用户偏好都保存在本地内存中。但是，用户可以随时导出其偏好，其中可能包含敏感信息，用户有责任确保导出的数据安全。此外，此应用程序显示来自 Google AdSense 的广告，他们可以收集您的数据。必须显示 AdSense 的数据收集同意书。有关广告的更多信息，请参阅 Google AdSense 的隐私政策。如果您希望避免数据收集同意书，请考虑使用 PRO 版本。",
     "faqProtocolsQ": "支持哪些协议？",
     "faqProtocolsA": "此应用程序支持MQTT（TCP）和Websocket协议。",
     "faqSecurityQ": "是否支持TLS/SSL？",
